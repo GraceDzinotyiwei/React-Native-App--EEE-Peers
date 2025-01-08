@@ -12,5 +12,5 @@ This app was designed to bring together Electrical and Electronic Engineering st
 
 Built with React Native and Firebase, this app is cross-platform and designed for seamless usability.
 
-📥 Download the apk for andeoid devices and try it out now!
-link: https://drive.google.com/file/d/1VSkiC4_r045m8S6gP0f6mISQVoik3Yk9/view?usp=sharing
+📥 Demo Video Link:
+https://youtu.be/J1ebRIhdeC0
